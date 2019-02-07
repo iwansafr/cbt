@@ -1,0 +1,1 @@
+<?php $db_server="madipo_cbt_pusat";
